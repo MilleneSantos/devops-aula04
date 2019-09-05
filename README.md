@@ -1,4 +1,4 @@
 # devops-aula04
-Spirit
-Rei leão 
-Mulan
+Spirit</br>
+Rei leão </br>
+Mulan</br>
