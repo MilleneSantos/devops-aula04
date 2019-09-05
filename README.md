@@ -1,4 +1,5 @@
 # devops-aula04
 Spirit</br>
-Rei leão </br>
+Toy Story </br>
 Mulan</br>
+Aladdin</br>
